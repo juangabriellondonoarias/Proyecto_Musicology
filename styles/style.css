@@ -1,0 +1,147 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #2C2C2C;
+    padding: 20px 80px;
+}
+
+.lupa{
+    margin: 18px;
+}
+
+.sec1{
+    background: url(../assets/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sec1 h1{
+    font-size: 130px;
+    color: white;
+}
+
+.sec1 p{
+    color: white;
+    font-size: 30px;
+    padding-right: 65%;
+}
+
+.sec1 button{
+    background-color: #FF6309;
+    color: white;
+    border: 0px;
+    padding: 10px 50px 10px 50px;
+    font-size: 25px;
+    border-radius: 3px;
+    margin-top: 30px;
+}
+
+.caja1{
+    padding: 28% 0% 8% 8%;
+}
+
+.sec2{
+    background-color: #FF6309;
+    color: white;
+    text-align: center;
+}
+
+.sec2 h2{
+    font-size: 70px;
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+
+.p{
+    font-size: 30px;
+    font-family:sans-serif;
+    padding-bottom: 85px;
+}
+
+.tarjetas{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.titulos{
+    background-color: #2C2C2C;
+    margin-top: -4px;
+}
+
+.titulos h3{
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+.titulos p{
+    font-size: 25px;
+    padding-bottom: 20px;
+    margin-bottom: 25%;
+}
+
+.sec3{
+    background-color: #2C2C2C;
+    color: white;
+    text-align: center;
+}
+
+.sec3 h2{
+    font-size: 80px;
+    padding-top: 90px;
+    padding-bottom: 30px;
+}
+
+.p1{
+    font-size: 30px;
+    padding-bottom: 85px;
+}
+
+.tarjetas2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.precio{
+    background-color: #FF6309;
+    padding: 55px 25px 20px 25px;
+    margin-bottom: 6%;
+    border-radius: 5px;
+}
+
+.precio h3{
+    font-size: 30px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.precio p{
+    font-size: 25px;
+}
+
+.precio button{
+    background-color: #2C2C2C;
+    color: white;
+    border: 0px;
+    padding: 15px 105px;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+footer{
+    background-color: #FF6309;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+footer p{
+    font-size: 25px;
+    color: white;
+}
