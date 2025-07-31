@@ -429,13 +429,13 @@ footer p{
     }
 
     .sec2 h2 {
-        font-size: 30px;
+        font-size: 26px;
         padding-top: 20px;
         padding-bottom: 6px;
     }
 
     .p {
-        font-size: 13px;
+        font-size: 11px;
         padding-bottom: 18px;
     }
 
@@ -446,24 +446,24 @@ footer p{
     }
 
     .titulos h3 {
-        font-size: 25px;
+        font-size: 18px;
         padding-bottom: 5px;
     }
 
     .titulos p {
-        font-size: 15px;
+        font-size: 13px;
         padding-bottom: 20px;
         margin-bottom: 15%;
     }
 
     .sec3 h2{
-        font-size: 30px;
+        font-size: 26px;
         padding-top: 20px;
         padding-bottom: 6px;
     }
 
     .p1{
-        font-size: 13px;
+        font-size: 11px;
         padding-bottom: 18px;
     }
 
@@ -478,13 +478,13 @@ footer p{
     }
 
     .precio h3 {
-        font-size: 25px;
+        font-size: 18px;
         padding-top: 18px;
         padding-bottom: 7px;
     }
 
     .precio p {
-        font-size: 15px;
+        font-size: 13px;
     }
 
     .precio{
@@ -494,7 +494,7 @@ footer p{
     .precio button {
         padding-top: 15px;
         padding-bottom: 15px;
-        font-size: 18px;
+        font-size: 16px;
         width: 80%;
     }
 
